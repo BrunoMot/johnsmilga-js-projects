@@ -17,4 +17,5 @@ btn.addEventListener('click', () => {
   document.body.style.backgroundColor = randomColor;
   color.innerText = randomColor;
   color.style.color = randomColor;
+  console.log('teste');
 });
